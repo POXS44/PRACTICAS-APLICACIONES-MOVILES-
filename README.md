@@ -21,3 +21,11 @@ Val int : int =123
 Var num2: float =int.tofloat()
 ### Muestre el resultado de las dos expresiones en una sola línea, mostrando la operación en una cadena y el valor de la variable Boolean a la par. Confirme cambios en GIT
 <img src="img\6.JPG"/>
+
+### Copie el siguiente código de cadenas en el fichero Tipos.kt e indique las diferencias entre Raw String y un String normal.  
+
+La diferencia es que para hacer un salto de linea en el string se necesita \n mientras que en el rawstring los hace automaticamente .  
+
+### Compile el fichero y muestre las variables en una sola sentencia println. Confirme los cambios en GIT.
+<img src="img\7.JPG"/>
+
